@@ -8,4 +8,3 @@ title: Pearson correlation coefficient
 배운 내용으로는 상관 계수가 높은 것을 취하는 것이 좋다고 하고 그 상관 계수를 구하는 방법 중 하나를 '피어슨의 상관계수'로 들었다.
 
 ![Alt text](https://IronSpirit.github.io/images/PccIMG_1.svg)
-<img src="https://IronSpirit.github.io/images/PccIMG_1.svg">
