@@ -9,8 +9,9 @@ Logistic Regression에서 우리가 관심이 있는 것은 추정 확률을 높
 a를 predict값이라고 볼 때, 확률은 이렇게 볼 수 있다.
 <img src="https://latex.codecogs.com/gif.latex?P(y=1 | x)= a " />
 
-<img src="https://latex.codecogs.com/gif.latex?\text { if y = 1 } t P(y | x)= a "/>
-<img src="https://latex.codecogs.com/gif.latex?\text { if y = 0 } t P(y | x)= 1-a "/>
+<img src="https://latex.codecogs.com/gif.latex?\text { if y = 1 }  P(y | x)= a "/>
+
+<img src="https://latex.codecogs.com/gif.latex?\text { if y = 0 }  P(y | x)= 1-a "/>
 
 이것을 이렇게 축약 가능하다.
 
