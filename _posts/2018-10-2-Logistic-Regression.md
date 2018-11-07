@@ -14,7 +14,7 @@ a를 predict값이라고 볼 때, 확률은 이렇게 볼 수 있다.
 
 이것을 이렇게 축약 가능하다.
 
-<img src="https://latex.codecogs.com/gif.latex?P(y | x)= y^a (1-y)^(1-a) />
+<img src="https://latex.codecogs.com/gif.latex?P(y | x)= a^y (1-a)^(1-y) "/>
 
 
 P(y | x) = a^y * (1-a)^(1-y)
