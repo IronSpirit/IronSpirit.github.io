@@ -7,14 +7,15 @@ title: 로지스틱 리그레션
 Logistic Regression에서 우리가 관심이 있는 것은 추정 확률을 높히는 것이다.
 
 a를 predict값이라고 볼 때, 확률은 이렇게 볼 수 있다.
-
 <img src="https://latex.codecogs.com/gif.latex?P(y=1 | x)= a " />
 
+<img src="https://latex.codecogs.com/gif.latex?\text { if y = 1 } t P(y | x)= a "/>
+<img src="https://latex.codecogs.com/gif.latex?\text { if y = 0 } t P(y | x)= 1-a "/>
 
-P(y=1 | x) = a
-P(y=0 | x) = a
+이것을 이렇게 축약 가능하다.
 
-P(y | x) = a
+<img src="https://latex.codecogs.com/gif.latex?P(y | x)= y^a (1-y)^(1-a) />
+
 
 P(y | x) = a^y * (1-a)^(1-y)
 
